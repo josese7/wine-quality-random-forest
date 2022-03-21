@@ -1,4 +1,4 @@
-# Proyecto DS Prediccion Vino
+# Proyecto DS Prediccion de Calidad de Vino
 
 Proyecto de la materia Data Science en la Facultad Politecnica de la Universidad Nacional de Asunción.  
 Predicción en la calidad de vino (malo, normal, bueno) con Random Forest.
